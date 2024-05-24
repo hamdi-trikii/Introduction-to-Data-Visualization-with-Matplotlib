@@ -1,2 +1,3 @@
 "# Introduction-to-Data-Visualization-with-Matplotlib" 
-vx:wv,l
+
+Explore the "Introduction to Data Visualization with Matplotlib" GitHub repository for a comprehensive Jupyter Notebook that covers the essentials of creating and customizing plots using Matplotlib. Click [here:](https://www.datacamp.com/datalab/w/201c91bf-13ce-465f-aed5-3b3f6e6ee75f/edit) to access the notebook and start visualizing your data today!
